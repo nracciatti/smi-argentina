@@ -8,8 +8,8 @@ export function BrandIntro() {
   const [fadeOut, setFadeOut] = useState(false);
 
   useEffect(() => {
-    const seen = sessionStorage.getItem("brand_intro_seen");
-    if (seen) return;
+    // const seen = sessionStorage.getItem("brand_intro_seen");
+    // if (seen) return;
 
     sessionStorage.setItem("brand_intro_seen", "1");
 

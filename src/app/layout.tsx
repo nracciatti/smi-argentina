@@ -5,7 +5,7 @@ import { site } from "@/lib/site";
 export const metadata: Metadata = {
   metadataBase: new URL(`https://${site.domain}`),
   title: {
-    default: `Servicios de Izaje Industrial en Argentina | ${site.name}`,
+    default: `${site.name} | Raising Business`,
     template: `%s | ${site.name}`,
   },
   description:

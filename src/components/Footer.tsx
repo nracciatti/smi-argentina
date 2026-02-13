@@ -82,7 +82,7 @@ export function Footer() {
               Contacto
             </div>
             <ul className="space-y-2 text-sm text-white/70">
-              <li>📞 +54 11 xxxx-xxxx</li>
+              <li>📞 +54 11 3326-8700</li>
               <li>✉️ contacto@smiargentina.com</li>
               <li>📍 Buenos Aires · Interior</li>
             </ul>
