@@ -143,15 +143,6 @@ export function About() {
                   ))}
                 </div>
               </div>
-
-              <div className="mt-6">
-                <Link
-                  href="/servicios"
-                  className="inline-flex items-center gap-2 text-sm font-semibold text-[rgb(var(--accent))] hover:underline"
-                >
-                  Ver servicios y alcance <span aria-hidden>→</span>
-                </Link>
-              </div>
             </div>
           </div>
 
