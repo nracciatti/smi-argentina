@@ -184,7 +184,7 @@ export function Works() {
               Inspección, diagnóstico, mantenimiento planificado o revamping.
             </p>
             <Link href="#contacto" className="btn-primary mt-4 inline-block">
-              Solicitar cotización técnica
+              Coordinar visita técnica
             </Link>
           </div>
         </div>
