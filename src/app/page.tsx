@@ -19,10 +19,19 @@ export default function Home() {
         <Works />
         <About />
         <Contact />
+        <section className="sr-only">
+          <h2>Reparación de puentes grúa</h2>
+          <p>
+            SMI Argentina ofrece servicios de reparación de puentes grúa,
+            mantenimiento de puentes grúa, inspección técnica de equipos de
+            izaje, revamping de grúas puente, polipastos y sistemas de elevación
+            industrial en Argentina.
+          </p>
+        </section>
       </main>
       <Footer />
       <WhatsAppPopup />
-      <BrandIntro/>
+      <BrandIntro />
     </>
   );
 }

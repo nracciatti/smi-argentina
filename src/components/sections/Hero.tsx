@@ -96,7 +96,7 @@ export function Hero() {
                 className="mt-5 text-4xl font-semibold leading-tight tracking-tight md:text-6xl"
                 style={{ transitionDelay: "80ms" }}
               >
-                Diagnóstico y mantenimiento de equipos.
+                Reparación y mantenimiento de puentes grúa.
               </h1>
 
               <p
@@ -126,7 +126,7 @@ export function Hero() {
                   Auditoría de equipo
                 </a>
 
-                <Link 
+                <Link
                   href="#servicios"
                   className="inline-flex items-center justify-center rounded-xl border border-white/25 bg-transparent px-5 py-3 text-sm font-semibold text-white transition hover:bg-white/10"
                 >
