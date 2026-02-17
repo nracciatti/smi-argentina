@@ -119,7 +119,7 @@ export function Footer() {
             reservados.
           </div>
           <div className="text-white/60">
-            Diseño y desarrollo • Landing industrial
+            Diseño y desarrollo • Racciatti.dev
           </div>
         </div>
       </div>

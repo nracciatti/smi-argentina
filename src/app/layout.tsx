@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     siteName: site.name,
     images: [
       {
-        url: "/og.jpg", // opcional si la creás
+        url: "/og.jpg",
         width: 1200,
         height: 630,
         alt: `${site.name} - Izaje Industrial`,
