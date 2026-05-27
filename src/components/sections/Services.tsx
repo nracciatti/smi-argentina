@@ -5,13 +5,13 @@ import { useInViewOnce } from "@/hooks/useInViewOnce";
 
 const services = [
   {
-    title: "Inspección de equipos de izaje",
+    title: "Inspección y certificación de equipos de izaje",
     desc: "Inspecciones periódicas orientadas a prevenir fallas, reducir paradas no planificadas y evitar costos innecesarios.",
     bullets: [
       "Inspección trimestral integral de equipos y elementos de izaje",
       "Detección temprana de desvíos y riesgos operativos",
       "Informe técnico con recomendaciones",
-      "Enfoque en mantenimiento predictivo",
+      "Certificación del equipo",
     ],
   },
   {

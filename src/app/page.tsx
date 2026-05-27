@@ -6,6 +6,7 @@ import { Services } from "@/components/sections/Services";
 import { Contact } from "@/components/sections/Contact";
 import { Works } from "@/components/sections/Works";
 import { About } from "@/components/sections/About";
+import { TrustedCompanies } from "@/components/blocks/TrustedCompanies";
 import { WhatsAppPopup } from "@/components/WhatsAppPopUp";
 import { BrandIntro } from "@/components/BrandIntro";
 
@@ -15,6 +16,7 @@ export default function Home() {
       <Navbar />
       <main>
         <Hero />
+        <TrustedCompanies />
         <Services />
         <Works />
         <About />

@@ -109,6 +109,23 @@ body {
   }
 }
 
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-marquee {
+  animation: marquee 46s linear infinite;
+}
+
+.pause-marquee:hover .animate-marquee {
+  animation-play-state: paused;
+}
+
 /* Cuando el intro está activo, "apagamos" el contenido con blur + leve desplazamiento */
 html.intro-on body {
   overflow: hidden; /* evita scroll mientras aparece */
